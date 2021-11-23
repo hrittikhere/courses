@@ -1,6 +1,0 @@
-{
-    "icc": false,
-    "no-new-privileges": true,
-    "live-restore": true,
-    "userland-proxy": false
-}
